@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Han Sans';
+}
+
+section {
+  page-break-inside: avoid;
+}
+
+h1 {
+  color: #0d1549;
+  text-align: center;
+}
+
+h2 {
+  border-left: solid 1em #0d1549;
+  padding-left: 0.5em;
+}
+
+.code {
+  width: 100%;
+  background: #272822;
+  height: 10em;
+  border-radius: 0.5em;
+  padding: 1em;
+}
+
+table {
+  border: 1px solid;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+th {
+  background: #0d1549;
+  color: #fff;
+}
+
+tr:nth-child(2n + 1) {
+  background: #b7bef2;
+}
+
+table th,
+table th,
+table td {
+  padding: 0.6em 3em;
+  border-bottom: 1px solid;
+}
+table th + th,
+table td {
+  border-left: 1px solid;
+}
+table tr:last-child th,
+table tr:last-child td {
+  border-bottom: none;
+}

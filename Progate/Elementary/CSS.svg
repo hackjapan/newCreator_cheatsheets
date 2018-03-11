@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="200"
+   viewBox="0 0 600.00002 200"
+   id="svg4167"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="CSS.svg">
+  <defs
+     id="defs4169" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.93583984"
+     inkscape:cx="290.39065"
+     inkscape:cy="175.36985"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4172">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-377.41483,-582.27486)">
+    <rect
+       style="opacity:1;fill:#272822;fill-opacity:1;stroke:#133cac;stroke-width:0;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4194"
+       width="600"
+       height="199.99998"
+       x="377.41483"
+       y="582.27484" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="394.51178"
+       y="676.68079"
+       id="text4774"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4776"
+         x="394.51178"
+         y="676.68079"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ricty Nerd Font';-inkscape-font-specification:'Ricty Nerd Font';fill:#f8f8f2;fill-opacity:1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ricty Nerd Font';-inkscape-font-specification:'Ricty Nerd Font';fill:#a6e22e;fill-opacity:1"
+   id="tspan4782">セレクタ</tspan> {</tspan><tspan
+         sodipodi:role="line"
+         x="394.51178"
+         y="716.68079"
+         id="tspan4778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ricty Nerd Font';-inkscape-font-specification:'Ricty Nerd Font';fill:#f8f8f2;fill-opacity:1"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ricty Nerd Font';-inkscape-font-specification:'Ricty Nerd Font';fill:#66d9ef;fill-opacity:1"
+   id="tspan4784">  プロパティ</tspan>: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ricty Nerd Font';-inkscape-font-specification:'Ricty Nerd Font';fill:#ae81ff;fill-opacity:1"
+   id="tspan4786">値</tspan>;</tspan><tspan
+         sodipodi:role="line"
+         x="394.51178"
+         y="756.68079"
+         id="tspan4780"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ricty Nerd Font';-inkscape-font-specification:'Ricty Nerd Font';fill:#f8f8f2;fill-opacity:1">}</tspan></text>
+    <rect
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#f8f8f2;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4226"
+       width="14.976731"
+       height="30.976732"
+       x="553.88965"
+       y="648.95142" />
+    <rect
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#f8f8f2;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4226-5"
+       width="14.976731"
+       height="30.976732"
+       x="420.59018"
+       y="689.58594" />
+    <rect
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#f8f8f2;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4226-6"
+       width="14.976731"
+       height="30.976732"
+       x="400.59018"
+       y="689.58594" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="567.83887"
+       y="638.99683"
+       id="text4928"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4930"
+         x="567.83887"
+         y="638.99683"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ricty Nerd Font';-inkscape-font-specification:'Ricty Nerd Font';fill:#75715e;fill-opacity:1">↓開き波かっこ</tspan></text>
+    <text
+       sodipodi:linespacing="0%"
+       id="text4942"
+       y="757.60687"
+       x="418.64139"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ricty Nerd Font';-inkscape-font-specification:'Ricty Nerd Font';fill:#75715e;fill-opacity:1"
+         y="757.60687"
+         x="418.64139"
+         id="tspan4944"
+         sodipodi:role="line">←閉じ波かっこ</tspan></text>
+    <rect
+       y="689.58594"
+       x="652.59015"
+       height="30.976732"
+       width="14.976731"
+       id="rect4963"
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#f8f8f2;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="0%"
+       id="text4942-9"
+       y="680.33972"
+       x="625.35498"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ricty Nerd Font';-inkscape-font-specification:'Ricty Nerd Font';fill:#75715e;fill-opacity:1"
+         y="680.33972"
+         x="625.35498"
+         id="tspan4944-1"
+         sodipodi:role="line">↓コロン</tspan></text>
+    <text
+       sodipodi:linespacing="0%"
+       id="text4942-2"
+       y="721.70813"
+       x="726.98004"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ricty Nerd Font';-inkscape-font-specification:'Ricty Nerd Font';fill:#75715e;fill-opacity:1"
+         y="721.70813"
+         x="726.98004"
+         id="tspan4944-7"
+         sodipodi:role="line">←セミコロン</tspan></text>
+  </g>
+</svg>

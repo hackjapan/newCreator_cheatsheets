@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+  <meta http-equiv='X-UA-Compatible' content='ie=edge'>
+  <title>Document</title>
+  <link rel='stylesheet' href='./../../style.css'>
+</head>
+
+<body>
+  <h1>Progate HTML/CSS コース チートシート（初級編）</h1>
+
+  <section>
+    <h2>HTML</h2>
+    <article>
+      <h3>書き方</h3>
+      <img src='./HTML.svg' alt='' class="code">
+    </article>
+
+    <article>
+      <h3>タグ一覧</h3>
+      <table>
+        <tr>
+          <th>タグ名</th>
+          <th>意味</th>
+          <th>例</th>
+        </tr>
+        <tr>
+          <td>h1 ~ h6</td>
+          <td>見出し (Heading) 1 ~ 6</td>
+          <td>&lt;h1&gt;見出し&lt;/h1&gt;</td>
+        </tr>
+        <tr>
+          <td>p</td>
+          <td>段落 (Paragraph)</td>
+          <td>&lt;p&gt;文章&lt;/p&gt;</td>
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>リンク (Anchor link)</td>
+          <td>&lt;a href=&quot;http://google.com&quot;&gt;Google&lt;/a&gt;</td>
+        </tr>
+        <tr>
+          <td>img</td>
+          <td>画像 (IMaGe)</td>
+          <td>&lt;img src=&quot;https://prog-8.com/images/family.jpg&quot;&gt;</td>
+        </tr>
+        <tr>
+          <td>&lt;!-- --&gt;</td>
+          <td>コメント</td>
+          <td>&lt;!-- コメント --&gt;</td>
+        </tr>
+        <tr>
+          <td>ul</td>
+          <td>順番なしリスト (Unordered List)</td>
+          <td>&lt;ul&gt; &lt;li&gt;リスト&lt;/li&gt; &lt;li&gt;リスト&lt;/li&gt; &lt;/ul&gt;</td>
+        </tr>
+        <tr>
+          <td>li</td>
+          <td>リストの要素 (List Item)</td>
+          <td>&lt;li&gt;リスト要素&lt;/li&gt;</td>
+        </tr>
+        <tr>
+          <td>doctype</td>
+          <td>HTMLのバージョン指定 (DOCment TYPE)</td>
+          <td>&lt;!DOCTYPE html&gt;</td>
+        </tr>
+        <tr>
+          <td>head</td>
+          <td>ページの設定に関する情報</td>
+          <td>&lt;head&gt;&lt;/head&gt;</td>
+        </tr>
+        <tr>
+          <td>meta</td>
+          <td>ページのメタ情報</td>
+          <td>&lt;meta charset=&quot;utf-8&quot;&gt;</td>
+        </tr>
+        <tr>
+          <td>title</td>
+          <td>ページのタイトル</td>
+          <td>&lt;title&gt;Progate&lt;/title&gt;</td>
+        </tr>
+        <tr>
+          <td>link</td>
+          <td>ページで使う物へのリンク</td>
+          <td>&lt;link rel=&quot;stylesheet&quot; href=&quot;stylesheet.css&quot;&gt;</td>
+        </tr>
+        <tr>
+          <td>div</td>
+          <td>要素のグループ化 (DIVision)</td>
+          <td>&lt;div class=&quot;main&quot;&gt;&lt;/div&gt;</td>
+        </tr>
+        <tr>
+          <td>input</td>
+          <td>いろいろな入力欄</td>
+          <td>&lt;input&gt;</td>
+        </tr>
+        <tr>
+          <td>textarea</td>
+          <td>複数行のテキスト入力欄</td>
+          <td>&lt;textarea&gt;&lt;/textarea&gt;</td>
+        </tr>
+      </table>
+    </article>
+  </section>
+
+  <section>
+    <h2>CSS</h2>
+    <article>
+      <h3>書き方</h3>
+      <img src='./CSS.svg' alt='' class="code">
+    </article>
+
+    <article>
+      <h3>セレクタ一覧</h3>
+      <dl>
+        <dt>タグ名</dt>
+        <dd>タグ名</dd>
+        <dt>クラス名</dt>
+        <dd>.クラス名</dd>
+        <dt>複数</dt>
+        <dd>セレクタ, セレクタ</dd>
+      </dl>
+    </article>
+    <article>
+      <h3>プロパティ一覧</h3>
+      <table>
+        <tr>
+          <th>プロパティ名</th>
+          <th>説明</th>
+          <th>値</th>
+          <th>例</th>
+        </tr>
+        <tr>
+          <td>color</td>
+          <td>文字や枠の色</td>
+          <td>色</td>
+          <td>color: #ffffff;</td>
+        </tr>
+        <tr>
+          <td>font-size</td>
+          <td>文字の大きさ</td>
+          <td>長さ</td>
+          <td>color: 10px;</td>
+        </tr>
+        <tr>
+          <td>font-family</td>
+          <td>フォント（書体）の種類</td>
+          <td>フォントの名前か種類</td>
+          <td>font-family: serif;</td>
+        </tr>
+        <tr>
+          <td>background-color</td>
+          <td>背景色</td>
+          <td>色</td>
+          <td>background-color: #dddddd;</td>
+        </tr>
+        <tr>
+          <td>width</td>
+          <td>横幅</td>
+          <td>長さ</td>
+          <td>width: 500px;</td>
+        </tr>
+        <tr>
+          <td>height</td>
+          <td>高さ</td>
+          <td>長さ</td>
+          <td>height: 80px;</td>
+        </tr>
+        <tr>
+          <td>list-style</td>
+          <td>リストの見た目</td>
+          <td>*</td>
+          <td>list-style: none;</td>
+        </tr>
+        <tr>
+          <td>float</td>
+          <td>要素を回り込ませる</td>
+          <td>left、right、none など</td>
+          <td>float: left;</td>
+        </tr>
+        <tr>
+          <td>padding</td>
+          <td>要素内側の余白</td>
+          <td>長さ</td>
+          <td>pading: 20px;</td>
+        </tr>
+        <tr>
+          <td>border</td>
+          <td>枠線</td>
+          <td>*</td>
+          <td>border: 5px solid red;</td>
+        </tr>
+        <tr>
+          <td>margin</td>
+          <td>要素外側の余白</td>
+          <td>長さ</td>
+          <td>margin: 20px</td>
+        </tr>
+      </table>
+      <p>margin、padding、border などはmargin-rightなどプロパティ名-方向というプロパティがある。</p>
+    </article>
+
+    <article>
+      <h3>値の種類と単位</h3>
+      <dl>
+        <dt>長さ</dt>
+        <dd>10px、1em、10%など</dd>
+        <dt>色</dt>
+        <dd>#ffffff、#fff、rgb(0, 0, 0)、rgba(0, 0, 0, 0.5)など</dd>
+      </dl>
+    </article>
+
+  </section>
+</body>
+
+</html>
